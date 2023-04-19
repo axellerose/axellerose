@@ -1,5 +1,1 @@
-- 👋 Hi, I am Alex, a Full-Stack JavaScript Developer
-- 👀 I’m interested in coding, good design, tennis and cooking 
-- 🌱 I’m currently learning AngularJS 
-- 💞️ I’m looking to collaborate on a valuable projects where I can apply my skills as a Front-End developer
-- 📫 Send me a <a href="mailto:iAmAlex.dev@gmail.com">mail</a> or visit my  <a href="https://iamalex.dev">landing page</a>
+
